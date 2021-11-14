@@ -11,9 +11,9 @@ import math
 topk = 100
 num_latent = 100
 
-num_target = # number of users in target dataset
-num_shadow = # number of users in shadow dataset
-num_vector = # number of items
+num_target # number of users in target dataset
+num_shadow # number of users in shadow dataset
+num_vector # number of items
 
 f_target = open("file name of target interactions", 'r') # interactions for target
 
