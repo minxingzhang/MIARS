@@ -1,4 +1,4 @@
-This repo includes the codes for the paper of 'Membership Inference Attacks Against Recommender Systems'.
+This repo includes the codes for the paper of __Membership Inference Attacks Against Recommender Systems__.
 
 To acknowledge use of the model in publications, please cite the following paper:
 [Membership Inference Attacks Against Recommender Systems](https://arxiv.org/abs/2109.08045)
