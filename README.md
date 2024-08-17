@@ -4,6 +4,8 @@ __Minxing Zhang__, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhumin Chen, Pengfei H
 
 _ACM Conference on Computer and Communications Security (CCS) 2021_
 
+---
+
 ![Framework](attackframework.png)
 
 ---
