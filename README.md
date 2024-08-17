@@ -1,10 +1,12 @@
 ## Membership Inference Attacks Against Recommender Systems
 
-_Minxing Zhang_, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang
+__Minxing Zhang__, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang
 
----
+_ACM Conference on Computer and Communications Security (CCS) 2021_
 
 ![Framework](attackframework.png)
+
+---
 
 ### Usage
 
