@@ -10,7 +10,7 @@ _ACM Conference on Computer and Communications Security (CCS) 2021_
 
 ---
 
-### Usage
+### Introduction
 
 There are two .py files which are our attack models.
 One is based on a clustering algorithm. And the other is based on the deep learning technique.
@@ -37,7 +37,9 @@ Datasets for "Recommendations" are derived from corresponding recommendation sys
 
 Datasets for "Vectorization" are derived following the method in the paper.
 
-Besides, the construction of datasets can be find [here](https://github.com/WZH-NLP/DL-MIA-KDD-2022/blob/main/DATASET.md).
+### Dataset Construction
+
+The implementations of dataset construction can be found [here](https://github.com/WZH-NLP/DL-MIA-KDD-2022/blob/main/DATASET.md).
 
 ### Reference
 
