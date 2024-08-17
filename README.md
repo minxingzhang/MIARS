@@ -33,6 +33,8 @@ Datasets for "Recommendations" are derived from corresponding recommendation sys
 
 Datasets for "Vectorization" are derived following the method in the paper.
 
+Besides, the construction of datasets can be find [here](https://github.com/WZH-NLP/DL-MIA-KDD-2022/blob/main/DATASET.md).
+
 ### Reference
 
 To acknowledge the use of our work, please cite our paper:
@@ -61,6 +63,5 @@ To acknowledge the use of our work, please cite our paper:
   timestamp    = {Tue, 19 Sep 2023 16:49:28 +0200},
   biburl       = {https://dblp.org/rec/conf/ccs/ZhangRWRCHZ21.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
 }
 ```
