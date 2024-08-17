@@ -4,7 +4,7 @@ _Minxing Zhang_, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhumin Chen, Pengfei Hu,
 
 ---
 
-![Framework](attackframework.pdf)
+![Framework](attackframework.png)
 
 ### Usage
 
