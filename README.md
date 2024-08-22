@@ -46,28 +46,11 @@ The implementations of dataset construction can be found [here](https://github.c
 To acknowledge the use of our work, please cite our paper:
 
 ```
-@inproceedings{DBLP:conf/ccs/ZhangRWRCHZ21,
-  author       = {Minxing Zhang and
-                  Zhaochun Ren and
-                  Zihan Wang and
-                  Pengjie Ren and
-                  Zhumin Chen and
-                  Pengfei Hu and
-                  Yang Zhang},
-  editor       = {Yongdae Kim and
-                  Jong Kim and
-                  Giovanni Vigna and
-                  Elaine Shi},
-  title        = {Membership Inference Attacks Against Recommender Systems},
-  booktitle    = {{CCS} '21: 2021 {ACM} {SIGSAC} Conference on Computer and Communications
-                  Security, Virtual Event, Republic of Korea, November 15 - 19, 2021},
-  pages        = {864--879},
-  publisher    = {{ACM}},
-  year         = {2021},
-  url          = {https://doi.org/10.1145/3460120.3484770},
-  doi          = {10.1145/3460120.3484770},
-  timestamp    = {Tue, 19 Sep 2023 16:49:28 +0200},
-  biburl       = {https://dblp.org/rec/conf/ccs/ZhangRWRCHZ21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{zhang2021membership,
+  title={Membership inference attacks against recommender systems},
+  author={Zhang, Minxing and Ren, Zhaochun and Wang, Zihan and Ren, Pengjie and Chen, Zhunmin and Hu, Pengfei and Zhang, Yang},
+  booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={864--879},
+  year={2021}
 }
 ```
